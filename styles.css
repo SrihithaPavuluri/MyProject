@@ -1,0 +1,47 @@
+.hidden
+{
+  display:none;
+}
+.myClass
+{
+  background-color: white;
+}
+body
+{
+  padding-top: 50px;
+  background-color: grey;
+}
+#div2
+{
+  padding-top: 10px;
+  color: yellow;
+}
+#div3
+{
+  padding-top: 10px;
+  color: yellow;
+}
+a:link    
+{
+  color:green; 
+  background-color:transparent; 
+  text-decoration:none
+}
+a:visited 
+{
+  color:pink; 
+  background-color:transparent; 
+  text-decoration:none
+}
+a:hover   
+{
+  color:red; 
+  background-color:transparent; 
+  text-decoration:underline
+}
+a:active  
+{
+  color:yellow; 
+  background-color:transparent; 
+  text-decoration:underline
+}

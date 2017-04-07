@@ -1,0 +1,23 @@
+{
+  "name": "nodeproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myapp.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "*",
+    "cors": "^2.8.1",
+    "formidable": "^1.0.17",
+    "multer": "*"
+  },
+  "devDependencies": {
+    "jquery": "*",
+    "sqlite3": "*",
+    "express": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
